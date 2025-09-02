@@ -1,0 +1,80 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\Debug\AssemblerApplication2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication2.map</FILE>
+  <FILE>AssemblerApplication2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>51</LINE></start>
+  <TIMER1_OVF_ISR><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>400</LINE></TIMER1_OVF_ISR>
+  <TIMER1_COMPA_ISR><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>405</LINE></TIMER1_COMPA_ISR>
+  <TIMER1_COMPB_ISR><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>449</LINE></TIMER1_COMPB_ISR>
+  <TIMER0_OVF_ISR><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>453</LINE></TIMER0_OVF_ISR>
+  <set_pwm_timer0><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>510</LINE></set_pwm_timer0>
+  <set_pwm_timer1><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>478</LINE></set_pwm_timer1>
+  <set_pwm_timer2><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>466</LINE></set_pwm_timer2>
+  <loop><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>88</LINE></loop>
+  <emergency_brake><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>255</LINE></emergency_brake>
+  <read_potenciometro><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>264</LINE></read_potenciometro>
+  <set_speed><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>288</LINE></set_speed>
+  <trem1_controller><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>101</LINE></trem1_controller>
+  <trem2_controller><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>178</LINE></trem2_controller>
+  <trem1_check><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>124</LINE></trem1_check>
+  <trem1_release><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>109</LINE></trem1_release>
+  <trem1_inside><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>156</LINE></trem1_inside>
+  <trem1_can_go><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>117</LINE></trem1_can_go>
+  <trem1_entering_true><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>143</LINE></trem1_entering_true>
+  <trem1_not_inside><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>137</LINE></trem1_not_inside>
+  <open_servo3><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>545</LINE></open_servo3>
+  <timer_trem1_ovf><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>170</LINE></timer_trem1_ovf>
+  <close_servo3><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>549</LINE></close_servo3>
+  <trem2_check><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>201</LINE></trem2_check>
+  <trem2_release><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>186</LINE></trem2_release>
+  <trem2_inside><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>233</LINE></trem2_inside>
+  <trem2_can_go><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>194</LINE></trem2_can_go>
+  <trem2_entering_true><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>220</LINE></trem2_entering_true>
+  <trem2_not_inside><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>214</LINE></trem2_not_inside>
+  <open_servo4><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>554</LINE></open_servo4>
+  <timer_trem2_ovf><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>247</LINE></timer_trem2_ovf>
+  <convert_adc><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>275</LINE></convert_adc>
+  <engine_back><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>345</LINE></engine_back>
+  <engine_zero><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>368</LINE></engine_zero>
+  <divisor_motor><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>383</LINE></divisor_motor>
+  <engine_speed><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>339</LINE></engine_speed>
+  <divisor_motor_loop><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>387</LINE></divisor_motor_loop>
+  <divisor_motor_end><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>393</LINE></divisor_motor_end>
+  <servo1><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>410</LINE></servo1>
+  <servo1_on><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>416</LINE></servo1_on>
+  <servo2><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>419</LINE></servo2>
+  <servo2_on><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>425</LINE></servo2_on>
+  <servo3><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>428</LINE></servo3>
+  <servo3_on><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>434</LINE></servo3_on>
+  <servo4><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>437</LINE></servo4>
+  <servo4_on><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>443</LINE></servo4_on>
+  <end><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>446</LINE></end>
+  <skip_reset><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>461</LINE></skip_reset>
+  <open_servo1><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>527</LINE></open_servo1>
+  <close_servo1><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>531</LINE></close_servo1>
+  <open_servo2><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>536</LINE></open_servo2>
+  <close_servo2><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>540</LINE></close_servo2>
+  <close_servo4><FILE>C:\Users\marlo\OneDrive\Documentos\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>558</LINE></close_servo4>
+ </LABELS>
+</ASSEMBLER_INFO>
