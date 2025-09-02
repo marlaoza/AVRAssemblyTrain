@@ -13,4 +13,6 @@ It simulates and controls a **miniature train station**, with **two trains**, **
   - Fully controllable speed and fully reversible with a potentiometer.
 
 ---
+<img width="899" height="589" alt="image" src="https://github.com/user-attachments/assets/0021a086-1629-4478-8e52-16934caae1b5" />
+
 
